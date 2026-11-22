@@ -1,6 +1,6 @@
 {
   "name": "@watchtowerobservability/checks",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Checks as code: Watchtower monitors as TypeScript constructs, synced through the API with test, deploy and a hot-reloading watch mode",
   "license": "Apache-2.0",
   "type": "module",
